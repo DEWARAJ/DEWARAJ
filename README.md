@@ -22,7 +22,7 @@ Robotics & Mechatronics engineer focused on embedded control systems, autonomous
 # Robotics Simulink Project — [Replace with actual project name]
 
 ## Overview
-[Guessing — you must replace this] A Simulink-based simulation of [what system? arena navigation? robotic arm? mobile robot dynamics?], modeling [what — motion control? sensor response? path planning?].
+ A Simulink-based simulation of [system arena navigation mobile robot dynamics], modeling [ motion control sensor response path planning].
 
 ## Problem
 [What real-world robotics problem does this address?]
