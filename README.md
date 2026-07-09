@@ -5,7 +5,7 @@ Robotics & Mechatronics engineer focused on embedded control systems, autonomous
 **Background**
 - MSc, Robotics, Automation & Mechatronics — Stevens Institute of Technology (2026)
 - BTech, Electronics & Communication Engineering
-- Currently on OPT (STEM), open to robotics / mechatronics / embedded systems / automation roles
+- Currently  open to robotics / mechatronics / embedded systems / automation roles
 
 **What I build**
 - 🐛 Bio-inspired locomotion — peristaltic/earthworm-style soft robotics modeled in MATLAB, studying segment contraction and gait control
