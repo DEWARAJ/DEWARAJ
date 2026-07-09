@@ -19,3 +19,25 @@ Robotics & Mechatronics engineer focused on embedded control systems, autonomous
 **Reach me**
 - 📫 dewarajraparthi@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dewaraj-raparthi-0176a6257)
+# Robotics Simulink Project — [Replace with actual project name]
+
+## Overview
+[Guessing — you must replace this] A Simulink-based simulation of [what system? arena navigation? robotic arm? mobile robot dynamics?], modeling [what — motion control? sensor response? path planning?].
+
+## Problem
+[What real-world robotics problem does this address?]
+
+## Approach
+- Built in MATLAB/Simulink
+- Model files: `.slx` Simulink models + `Plots.zip` 
+
+
+## Method
+[IT has decision making and path planning detects obstacles drops the objects on required locations]
+
+
+## Tools
+MATLAB, Simulink
+
+## Why this matters
+[ target  — control systems, automation, mobile robotics]
