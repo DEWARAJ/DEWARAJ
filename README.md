@@ -10,6 +10,7 @@ Robotics & Mechatronics engineer focused on embedded control systems, autonomous
 **What I build**
 - 🐛 Bio-inspired locomotion — peristaltic/earthworm-style soft robotics modeled in MATLAB, studying segment contraction and gait control
 - 🎛️ Control system simulation — Simulink models for robotic arena/motion scenarios
+- 🎯 Autonomous object sorting — a mobile robot in Simulink/Robotics Playground that detects, seeks, and sorts colored objects into zones using color detection, distance sensing, and odometry
 - 🤖 Autonomous systems and embedded control, from sensor integration to control logic
 
 **Currently exploring**
